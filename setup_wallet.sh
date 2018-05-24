@@ -2,8 +2,8 @@
 
 
 TMP_FOLDER=$(mktemp -d)
-WALLET_URL="https://github.com/Stipend-Developer/stipend/releases/download/1.1.0b/stipend-linux-1.1.0b.zip"
-WALLET_ARCH="stipend-linux-1.1.0b.zip"
+WALLET_URL="https://github.com/Stipend-Developer/stipend/releases/download/2.0.0.2/stipend-linux-2.0.0.2.zip"
+WALLET_ARCH="stipend-linux-2.0.0.2.zip"
 WALLET_DIR="/root/Desktop"
 WGET="/usr/bin/wget"
 
